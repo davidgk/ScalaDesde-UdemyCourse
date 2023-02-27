@@ -1,7 +1,7 @@
 import org.example.scala_01.example_01.MyExample
 import org.scalatest.funspec.AnyFunSpec
 
-class SetSpec extends AnyFunSpec {
+class MyExampleSpec extends AnyFunSpec {
 
   describe("A hello world greeting") {
 
